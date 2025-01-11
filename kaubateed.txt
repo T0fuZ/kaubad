@@ -3,4 +3,6 @@
 - z260 läpakas (laadijaga)
 - sony telekas
 - uus zx kesta vana orig sisuga
+- pi4 karbiga
+
 
