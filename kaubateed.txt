@@ -1,3 +1,4 @@
+A
 - jaapni diskid (2 pakki!)
 - 1 arduino nano
 - z260 läpakas (laadijaga)
@@ -6,4 +7,11 @@
 - pi4 karbiga
 - msx2
 
-
+B
+- 74HC00
+- MAX232 DIP
+- DSUB9 pistik-emane
+- mont. kaabel
+- HP desktop
+- Dell läpakas
+- HP läpakas
