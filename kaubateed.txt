@@ -4,5 +4,6 @@
 - sony telekas
 - uus zx kesta vana orig sisuga
 - pi4 karbiga
+- msx2
 
 
